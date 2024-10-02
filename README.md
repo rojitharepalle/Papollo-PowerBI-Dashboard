@@ -1,5 +1,5 @@
 # Papollo-PowerBI-Dashboard
-Creating Papollo Hospital PowerBI Dashboard by using healthcare dataset
+Created Papollo Hospital PowerBI Dashboard by using healthcare dataset
 
 ## Major Insights has been drawn as per Requirement:
 
