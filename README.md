@@ -1,7 +1,7 @@
 # Papollo-PowerBI-Dashboard
 Creating Papollo Hospital PowerBI Dashboard by using healthcare dataset
 
-##Major Insights has been drawn as per Requirement:
+## Major Insights has been drawn as per Requirement:
 
 1. Patient Info according to Patient_ID
 2. Billing Information
